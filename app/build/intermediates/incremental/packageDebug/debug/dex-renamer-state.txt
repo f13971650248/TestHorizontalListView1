@@ -1,0 +1,4 @@
+#Thu Jun 21 00:40:55 CST 2018
+base.0=C\:\\Users\\fangcheng\\Desktop\\TestHorizontalListView1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
